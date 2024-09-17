@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">톡블록</string>
+    <string name="accessibility_denied">접근성 권한이 없습니다.</string>
+    <string name="accessibility_error">접근성 오류로 앱을 사용할 수 없습니다.</string>
+    <string name="title_request_accessibility_permission">접근성 권한 설정</string>
+    <string name="content_request_accessibility_permission">앱을 사용하기 위해 접근성 권한이 필요합니다.\n접근성 ‣ 설치된 앱 ‣ 톡블록</string>
+    <string name="title_fix_accessibility_permission">접근성 작동 오류</string>
+    <string name="content_fix_accessibility_permission">접근성 서비스에 오류가 있습니다.\n접근성 권한을 껐다 켜주세요.\n접근성 ‣ 설치된 앱 ‣ 톡블록</string>
+    <string name="approve">허용</string>
+    <string name="deny">거절</string>
+    <string name="block_start">차단하기</string>
+    <string name="set_pw">비밀번호 설정</string>
+    <string name="pw">비밀번호</string>
+    <string name="pw_invalid">영문 대소문자/숫자 입력 가능, 8자~14자</string>
+    <string name="pw_valid">사용가능한 비밀번호입니다.</string>
+    <string name="pw_wrong">비밀번호가 틀렸습니다.</string>
+    <string name="confirm">확인</string>
+    <string name="set_pw_warning">*주의\n이메일을 등록하지 않은 경우 비밀번호를 반드시 기억해야 합니다.\n이메일 등록여부:&#160;</string>
+    <string name="registered">등록됨</string>
+    <string name="not_registered">등록안됨</string>
+    <string name="register_email">이메일 등록하기 ‣</string>
+    <string name="change_email">이메일 변경하기 ‣</string>
+    <string name="confirm_pw_warning">등록된 이메일로 비밀번호를 재발급 받을 수 있습니다.</string>
+    <string name="pw_regain"><u>비밀번호 재발급 ‣</u></string>
+    <string name="register_email_title">이메일 등록</string>
+    <string name="email">이메일</string>
+    <string name="email_invalid">올바른 이메일을 입력해주세요.</string>
+    <string name="otp_sent">인증번호를 보냈습니다.</string>
+    <string name="otp_wrong">인증번호가 일치하지 않습니다.</string>
+    <string name="email_not_registered">등록된 이메일이 없습니다.</string>
+    <string name="email_sent">등록된 이메일로 새로운 비밀번호를 보냈습니다.</string>
+    <string name="verify">인증하기</string>
+    <string name="otp">인증번호</string>
+    <string name="email_send_failed">메일 발송에 실패했습니다.</string>
+    <string name="data_store_failed">&#160;저장에 실패했습니다.</string>
+    <string name="block_state">차단 상태</string>
+    <string-array name="web_page_buttons">
+        <item>닫기 버튼</item>
+        <item>채팅방에 보내기 버튼</item>
+        <item>페이지 접기 버튼</item>
+        <item>더보기 버튼</item>
+    </string-array>
+    <string-array name="search_page_buttons">
+        <item>입력된 검색어 전체삭제</item>
+        <item>검색</item>
+    </string-array>
+    <string name="time_format">%d:%02d\t</string>
+    <string name="button">버튼</string>
+    <string name="target_package_name">com.kakao.talk</string>
+    <string name="verify_email_title">톡블록 인증번호</string>
+    <string name="verify_email_description">6자리의 번호를 인증번호 입력 창에 입력하시기 바랍니다.</string>
+    <string name="regain_pw_email_title">톡블록 비밀번호 재발급</string>
+    <string name="regain_pw_email_description">발급된 비밀번호를 앱에서 사용할 수 있습니다.</string>
+    <string name="email_extra_description">만일 요청한 적이 없다면, 해당 이메일을 무시하세요.</string>
+    <string name="notification_denied">앱이 알림을 보내지 않습니다.</string>
+    <string name="notification_title">톡블록 차단 중</string>
+    <string name="notification_content">톡블록이 인앱 브라우저를 차단 중입니다.</string>
+    <string name="notification_channel_name">차단 알림</string>
+    <string name="device_admin_permission_explanation">권한 허용 시 앱 삭제 및 강제 종료를 방지할 수 있습니다.</string>
+    <string name="accessibility_setting_title">접근성 설정</string>
+    <string name="notification_setting_title">알림 설정</string>
+    <string name="device_admin_setting_title">기기 관리자 설정</string>
+    <string name="accessibility_setting_description">사용자의 활동을 모니터링할 수 있습니다.</string>
+    <string name="notification_setting_description">앱이 차단 중일 때 알림을 받을 수 있습니다.</string>
+    <string name="device_admin_setting_description">앱 삭제 및 강제 종료를 방지할 수 있습니다.</string>
+    <string name="setting">설정</string>
+</resources>

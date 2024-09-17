@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TalkBlock</string>
+    <string name="accessibility_denied">Accessibility permission not granted.</string>
+    <string name="accessibility_error">The app cannot be used due to an accessibility error.</string>
+    <string name="title_request_accessibility_permission">Accessibility Permission Request</string>
+    <string name="content_request_accessibility_permission">Accessibility permission is required.\nAccessibility ‣ Installed Apps ‣ TalkBlock</string>
+    <string name="title_fix_accessibility_permission">Accessibility Service Error</string>
+    <string name="content_fix_accessibility_permission">There is an issue with the accessibility service.\nPlease turn the accessibility permission off and on again.\nAccessibility ‣ Installed apps ‣ TalkBlock</string>
+    <string name="approve">Approve</string>
+    <string name="deny">Deny</string>
+    <string name="block_start">Block</string>
+    <string name="set_pw">Set Password</string>
+    <string name="pw">Password</string>
+    <string name="pw_invalid">Can Include uppercase, lowercase and numbers. Must be 8–14 characters.</string>
+    <string name="pw_valid">The password is valid.</string>
+    <string name="pw_wrong">The password is incorrect.</string>
+    <string name="confirm">Confirm</string>
+    <string name="set_pw_warning">*Warning\nIf an email is not registered, you must remember your password.\nEmail status:&#160;</string>
+    <string name="registered">Registered</string>
+    <string name="not_registered">Not Registered</string>
+    <string name="register_email">Register Email ‣</string>
+    <string name="change_email">Change Email ‣</string>
+    <string name="confirm_pw_warning">You can reset your password via the email registered.</string>
+    <string name="pw_regain">Reset Password ‣</string>
+    <string name="register_email_title">Register Email</string>
+    <string name="email">Email</string>
+    <string name="email_invalid">Please enter a valid email address.</string>
+    <string name="otp_sent">Verification code has been sent.</string>
+    <string name="otp_wrong">The verification code is incorrect.</string>
+    <string name="email_not_registered">No registered email found.</string>
+    <string name="email_sent">A new password has been sent to the registered email.</string>
+    <string name="verify">Verify</string>
+    <string name="otp">Verification Code</string>
+    <string name="email_send_failed">Failed to send email.</string>
+    <string name="data_store_failed">&#160;data failed to save.</string>
+    <string name="block_state">Block State</string>
+    <string-array name="web_page_buttons">
+        <item>close button</item>
+        <item>Share via Chatroom button</item>
+        <item>Fold Page Button</item>
+        <item>more button</item>
+    </string-array>
+    <string-array name="search_page_buttons">
+        <item>Remove keyword from the text field</item>
+        <item>Search</item>
+    </string-array>
+    <string name="time_format">%d:%02d\t</string>
+    <string name="button">button</string>
+    <string name="target_package_name">com.kakao.talk</string>
+    <string name="verify_email_title">TalkBlock Verification Code</string>
+    <string name="verify_email_description">Please enter the 6-digit code in the verification code input field.</string>
+    <string name="regain_pw_email_title">TalkBlock Password Reset</string>
+    <string name="regain_pw_email_description">The issued password can be used in the app.</string>
+    <string name="email_extra_description">If you did not request this, please ignore this email.</string>
+    <string name="notification_denied">App will not send notifications.</string>
+    <string name="notification_title">TalkBlock is Blocking</string>
+    <string name="notification_content">TalkBlock is now blocking the in-app browsers.</string>
+    <string name="notification_channel_name">Block Notification</string>
+    <string name="device_admin_permission_explanation">If permissions are granted, you can prevent app uninstallation and force stop.</string>
+    <string name="accessibility_setting_title">Accessibility Setting</string>
+    <string name="notification_setting_title">Notification Setting</string>
+    <string name="device_admin_setting_title">Device Admin Setting</string>
+    <string name="accessibility_setting_description">The app can monitor user activities.</string>
+    <string name="notification_setting_description">Get notifications when blocking is active.</string>
+    <string name="device_admin_setting_description">Prevent uninstallation and force stop.</string>
+    <string name="setting">Setting</string>
+
+</resources>
