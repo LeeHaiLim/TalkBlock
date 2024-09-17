@@ -64,6 +64,6 @@
     <string name="accessibility_setting_description">The app can monitor user activities.</string>
     <string name="notification_setting_description">Get notifications when blocking is active.</string>
     <string name="device_admin_setting_description">Prevent uninstallation and force stop.</string>
-    <string name="setting">Setting</string>
+    <string name="setting">Settings</string>
 
 </resources>
