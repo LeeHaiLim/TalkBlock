@@ -10,9 +10,5 @@ class BlockApp : Application() {
     override fun onCreate() {
         super.onCreate()
         MobileAds.initialize(this) {}
-        MobileAds.setRequestConfiguration(
-            RequestConfiguration.Builder()
-                .setTestDeviceIds(listOf("D0474EDED41DA4BFD1BA167DF0689F74")).build()
-        )
     }
 }
